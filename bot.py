@@ -11,7 +11,7 @@ import time
 bot = telebot.TeleBot('758716287:AAH0qm5kLnUm4r9AaPteHQIJacx71VyUymQ')
 
 # رابط التحميل المباشر للملف
-EXCEL_URL = 'https://api.onedrive.com/v1.0/shares/s!AkGEUNEm-8qEi0TVBCIx8XLNCP_x/root/content'
+EXCEL_URL = 'https://1drv.ms/x/c/84cafb26d1508441/EUGEUNEm-8oggITEBQAAAAABPBKjYUiBUdBKAh2dbwEYEw?download=1'
 
 # تحميل بيانات ملف Excel وتخزينها في DataFrame
 def load_excel_data(name):
